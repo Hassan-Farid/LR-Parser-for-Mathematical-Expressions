@@ -1,0 +1,25 @@
+{
+    "left": "2",
+    "right": {
+        "left": {
+            "left": "3",
+            "right": {
+                "left": "3",
+                "right": "4",
+                "root": "*"
+            },
+            "root": "/"
+        },
+        "right": {
+            "left": "4",
+            "right": {
+                "left": "7",
+                "right": "5",
+                "root": "-"
+            },
+            "root": "+"
+        },
+        "root": "+"
+    },
+    "root": "+"
+}
